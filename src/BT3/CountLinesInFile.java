@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package BT3;
 
 public class CountLinesInFile {
 }
